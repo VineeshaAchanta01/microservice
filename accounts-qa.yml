@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to EazyBank accounts related local APIs "
   contactDetails:
     name: "Ram  - QA Lead"
-    email: "ram@eazybank.com"
+    email: "{cypher}e2a071efda6cdda14c7f7e1e3adc623e8d2bbf4a7ef1cb95a2737418013032c342d1156c900644f80599def58c6f3e49"
   onCallSupport:
     - (777) 789-1234
     - (777) 123-1345
