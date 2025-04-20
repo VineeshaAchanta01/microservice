@@ -1,0 +1,10 @@
+build:
+  version : "3.3"
+loans:
+  message: "Welcome to EazyBank accounts related local APIs "
+  contactDetails:
+    name: "Raj  - QA Lead"
+    email: "raj@eazybank.com"
+  onCallSupport:
+    - (444) 789-1234
+    - (444) 123-1344

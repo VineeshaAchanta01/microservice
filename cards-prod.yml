@@ -1,0 +1,10 @@
+build:
+  version : "8.0"
+cards:
+  message: "Welcome to EazyBank accounts related local APIs "
+  contactDetails:
+    name: "Singh - Prod Lead"
+    email: "singh@eazybank.com"
+  onCallSupport:
+    - (999) 678-1234
+    - (999) 876-1345

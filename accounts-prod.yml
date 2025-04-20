@@ -1,0 +1,10 @@
+build:
+  version : "2.0"
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs "
+  contactDetails:
+    name: "Smith Roy - Prod Lead"
+    email: "smith@eazybank.com"
+  onCallSupport:
+    - (666) 678-1234
+    - (666) 876-1345

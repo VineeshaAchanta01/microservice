@@ -1,0 +1,10 @@
+build:
+  version : "3.0"
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs "
+  contactDetails:
+    name: "Ram  - QA Lead"
+    email: "ram@eazybank.com"
+  onCallSupport:
+    - (777) 789-1234
+    - (777) 123-1345
