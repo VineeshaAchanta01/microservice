@@ -1,7 +1,7 @@
 build:
   version : "2.0"
 accounts:
-  message: "Welcome to EazyBank accounts related webhook APIs "
+  message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Smith Roy - Prod Lead"
     email: "smith@eazybank.com"
