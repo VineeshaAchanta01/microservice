@@ -1,7 +1,7 @@
 build:
   version : "8.0"
 cards:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related webhook APIs "
   contactDetails:
     name: "Singh - Prod Lead"
     email: "singh@eazybank.com"
